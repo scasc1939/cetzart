@@ -1,2 +1,8 @@
 # cetzart
-Typst/Cetz
+
+Typst/Cetzでお絵描きをする
+
+
+## License
+
+Unlicense
